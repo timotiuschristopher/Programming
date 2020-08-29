@@ -1,0 +1,32 @@
+UML-Class Diagram
+
+----------------------------------
+Grade
+----------------------------------
+:State
+	(+)int Lamp	// (+) is public (-) is private
+	int x
+	int score
+----------------------------------
+Behaviours
+	setLampon
+	setLampoff
+	setNumber
+	getGrades
+----------------------------------
+//////////////////////////////////
+//////////////////////////////////
+----------------------------------
+HearRates
+----------------------------------
+	int day
+	string FirstName, LastName
+----------------------------------
+	getAge()
+	getMaxHR()
+	getTargetHR()
+	setDateofBirth(int day)
+	setName(string FirstName, string LastName)
+	setValueAge()
+	getValueAge()
+----------------------------------

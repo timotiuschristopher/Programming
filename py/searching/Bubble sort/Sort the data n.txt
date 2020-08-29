@@ -1,0 +1,14 @@
+Sort the data n
+Start from the middle of the data
+    if the data is correct
+        finish
+    else if the data lower than the middle data
+        go to the left middle data
+    else if the data higher than the middle data
+        go to the right middle data
+repeat
+
+
+    
+    
+

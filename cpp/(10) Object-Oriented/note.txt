@@ -1,0 +1,30 @@
+object-oriented:
+Modularity
+
+Information-hiding
+
+Code re-use
+
+Plugging 
+
+
+Scope Operator (::)
+define member class outside the member class
+
+
+"Rectangle.h"
+=> to link rectangle.cpp (width and height) with testrect.cpp (equations)
+
+testrect.cpp => int main
+
+rectangle.cpp (class):
+- state (width & height)
+- behaviour 
+	set values 
+	h =height 	w=width
+	
+	get area class
+	return w*h
+	 
+
+

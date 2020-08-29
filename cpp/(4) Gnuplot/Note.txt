@@ -1,0 +1,19 @@
+data.csv
+record.log
+wave.dat
+
+plot "physics.csv" using 1:2 with lines 
+
+c++ to generate sine data
+
+w = write
+a = append
+
+/t = tab
+
+file:
+fopen
+fclose
+
+2 sin (2PI - 90)
+A sin (x - 90) 

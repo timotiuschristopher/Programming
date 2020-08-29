@@ -1,0 +1,8 @@
+//Pseudo Code Binary Search
+if middle is target 
+    then found it
+if middle greater than target
+    then search left
+if middle less than target
+    then search right
+    
