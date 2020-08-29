@@ -1,3 +1,2 @@
 # Programming
-C 
-Python
+C & Python
