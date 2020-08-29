@@ -1,1 +1,1 @@
-print("apa aja")
+print("apa aja2")
