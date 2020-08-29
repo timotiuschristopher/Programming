@@ -1,2 +1,2 @@
-# Algorithm-semester-4
-Python
+# Programming
+C & Python
